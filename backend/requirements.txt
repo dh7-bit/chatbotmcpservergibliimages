@@ -4,3 +4,4 @@ ollama
 gunicorn
 python-dotenv
 requests
+mcp
