@@ -1,0 +1,6 @@
+flask
+flask-cors
+ollama
+gunicorn
+python-dotenv
+requests
